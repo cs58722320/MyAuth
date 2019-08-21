@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.arvato.auth.client.config.AuthClientConfig,\
+com.arvato.auth.client.config.MybatisConfig

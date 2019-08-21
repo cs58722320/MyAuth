@@ -1,0 +1,12 @@
+com\arvato\auth\client\config\MybatisConfig.class
+com\arvato\auth\client\constants\InternalConstants.class
+com\arvato\auth\client\config\AuthClientConfig.class
+com\arvato\auth\client\entity\CrmSysAuthExample$Criteria.class
+com\arvato\auth\client\entity\CrmSysAuthExample.class
+com\arvato\auth\client\util\JWTUtils.class
+com\arvato\auth\client\config\AuthClientProperties.class
+com\arvato\auth\client\entity\CrmSysAuth.class
+com\arvato\auth\client\entity\CrmSysAuthExample$Criterion.class
+com\arvato\auth\client\entity\CrmSysAuthExample$GeneratedCriteria.class
+com\arvato\auth\client\filter\DefaultAuthValidateFilter.class
+com\arvato\auth\client\mapper\CrmSysAuthDefaultMapper.class
